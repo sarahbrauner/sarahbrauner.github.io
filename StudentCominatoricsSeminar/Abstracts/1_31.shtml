@@ -1,0 +1,56 @@
+
+<!--template by Ezra Miller, adapted for University of Minnesota from-->
+<!--http://www.math.lsa.umich.edu/seminars/combin/winter07/jan19.html-->
+
+<html>
+<head>
+<title>Student Combinatorics and Algebra Seminar</title>
+</head>
+
+<BODY TEXT="#000" VLINK="#0020C2" BGCOLOR="#FFFFFF">
+
+<p>
+</p><table border="3" width="100%" noshade="" cellspacing="1" cellpadding="4">
+<tbody><tr>
+<th><p>
+</p><h2> 
+<a href="http://math.umn.edu/~braun622/StudentCominatoricsSeminar/Fall2018.shtml"> 
+
+
+<font color="#000">Student Combinatorics and Algebra Seminar</font></a><br>
+<font color="#000">Thursday, January 31, 2019 </font><br>
+<font color="#000">4:40pm in Vincent 570</font></h2>
+</th></tr>
+</tbody></table>
+<br><br>
+
+<h1><center>
+
+The Threshold Density Theorem
+</center></h1>
+
+<center><h2>
+David Perkinson
+</h2></center>
+
+<h2><center>
+Reed College
+</center></h2>
+
+
+<center>
+<table width="75%">
+<tbody><tr><th>
+<hr><p>
+Abstract
+</p><p></p></th></tr>
+<tr><td align="justify">
+<center>
+<p align="justify">
+
+Imagine a system in which particles of energy are randomly added to sites in a finite network.  When the number of particles at a site reaches a certain threshold, the site becomes unstable and fires, sending one particle to each of its immediate neighbors in the network.  These neighbors, in turn, might then exceed their thresholds---so adding a single particle can set off a cascade of firings.  We wait until all firing activity has subsided before randomly adding the next particle.  Since the network is finite, we will eventually reach a point at which a particle is added and the system is no longer stabilizable.  What total amount of energy do you expect to be in the system then?  This talk will be an introduction to chip-firing and the abelian sandpile model through Lionel Levine's threshold density theorem, which provides an answer to the above question.
+
+
+</p></p><p></p><hr>
+</td></tr></tbody></table></center>
+</body></html>

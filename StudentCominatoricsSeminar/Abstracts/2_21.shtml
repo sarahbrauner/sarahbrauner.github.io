@@ -1,0 +1,55 @@
+
+<!--template by Ezra Miller, adapted for University of Minnesota from-->
+<!--http://www.math.lsa.umich.edu/seminars/combin/winter07/jan19.html-->
+
+<html>
+<head>
+<title>Student Combinatorics and Algebra Seminar</title>
+</head>
+
+<BODY TEXT="#000" VLINK="#0020C2" BGCOLOR="#FFFFFF">
+
+<p>
+</p><table border="3" width="100%" noshade="" cellspacing="1" cellpadding="4">
+<tbody><tr>
+<th><p>
+</p><h2> 
+<a href="http://math.umn.edu/~braun622/StudentCominatoricsSeminar/Fall2018.shtml"> 
+
+
+<font color="#000">Student Combinatorics and Algebra Seminar</font></a><br>
+<font color="#000">Thursday, February 21, 2019 </font><br>
+<font color="#000">4:40pm in Vincent 570</font></h2>
+</th></tr>
+</tbody></table>
+<br><br>
+
+<h1><center>
+
+Reflection length in various settings
+</center></h1>
+
+<center><h2>
+Joel Brewster Lewis
+</h2></center>
+
+<h2><center>
+George Washington University 
+</center></h2>
+
+
+<center>
+<table width="75%">
+<tbody><tr><th>
+<hr><p>
+Abstract
+</p><p></p></th></tr>
+<tr><td align="justify">
+<center>
+<p align="justify">
+Given a group G with a generating set T, it is natural to ask about the T-length of an element g of G, that is, the smallest number k such that g can be written as a product of k elements of T.  In general, this quantity is uncomputable (in the rigorous CS/logic sense).  However, when the group G and generating set T are nice, it may have nice interpretations.  I'll survey some examples, in the context of linear and affine reflection groups over various fields, and give some idiosyncratic reasons to think this is interesting thing to think about.
+
+
+</p></p><p></p><hr>
+</td></tr></tbody></table></center>
+</body></html>

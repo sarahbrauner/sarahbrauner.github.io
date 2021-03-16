@@ -1,0 +1,56 @@
+
+<!--template by Ezra Miller, adapted for University of Minnesota from-->
+<!--http://www.math.lsa.umich.edu/seminars/combin/winter07/jan19.html-->
+
+<html>
+<head>
+<title>Student Combinatorics and Algebra Seminar</title>
+</head>
+
+<BODY TEXT="#000" VLINK="#0020C2" BGCOLOR="#FFFFFF">
+
+<p>
+</p><table border="3" width="100%" noshade="" cellspacing="1" cellpadding="4">
+<tbody><tr>
+<th><p>
+</p><h2> 
+<a href="http://math.umn.edu/~braun622/StudentCominatoricsSeminar/Fall2018.shtml"> 
+
+
+<font color="#000">Student Combinatorics and Algebra Seminar</font></a><br>
+<font color="#000">Thursday, September 27, 2018</font><br>
+<font color="#000">4:40pm in Vincent 570</font></h2>
+</th></tr>
+</tbody></table>
+<br><br>
+
+<h1><center>
+Zero-Sumfree Sets, Hilbert Series, and Stanley Reisner Rings
+</center></h1>
+
+<center><h2>
+Ashleigh Adams
+</h2></center>
+
+<h2><center>
+University of Minnesota
+</center></h2>
+
+
+
+<center>
+<table width="75%">
+<tbody><tr><th>
+<hr><p>
+Abstract
+</p><p></p></th></tr>
+<tr><td align="justify">
+<center>
+<p align="justify">
+
+There is a question in extremal combinatorics regarding the maximum size of a zero-sumfree set. The set of all zero-sumfree sets is a simplicial complex. For every simplicial complex there is an associated algebraic structure known as a Stanley-Reisner ring. In this talk we will both define this ring and look at the Hilbert series of the Stanley-Reisner ring associated with the complex of zero-sum free sets.
+
+</p></p><p></p><hr>
+</td></tr></tbody></table></center>
+</body></html>
+

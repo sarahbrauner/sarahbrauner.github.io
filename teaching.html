@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Teaching</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 480px), only screen and (max-device-width: 480px)" href="mobile.css">
+<link rel="author" href="humans.txt">
+
+</head>
+
+<div>
+  <img src="icons/menu.png" style="width:10%;" alt="menu" onclick="openMenu()" class="menuButton"></img>
+  <div id="menu" class="menuItems">
+  <li><a href="index.html">Home</a></li>
+  <li><a href="research.html">Research </a></li>
+  <li><a class="active" href="teaching.html">Teaching</a></li>
+  <li><a target="_blank" href="cv_8_2020.pdf">CV</a></li>
+  <li><a href="personal.html">Personal</a></li>
+</div>
+</div>
+
+<body>
+
+<div class="main">
+
+<h2>Teaching</h2>
+
+<hr color="#9c273a">
+
+<div style="padding: 5%;">
+
+<img class="space" id="me" src="images/chalktalk.jpeg" alt="Sarah Brauner">
+
+<br><br>
+<!-- <h3>Mathematics, University of Minnesota</h3> -->
+<p> 
+<b>Current Teaching:</b></i> 
+<p> 
+I am currently advising UMN senior Maxwell McKinney on his Senior Project about chip-firing on McKay-Cartan quivers. I am also advising UMN juniors Annika Christiansen and Nhung Pham on a research project about symmetries of divisors on graphs.
+</p>
+<p>
+<b>Past Teaching:</b></i>  
+<p> In Fall 2019 and Spring 2020, I was a TA for the year-long Calculus II course through the <a target="_blank" alt = "here" href="http://www.mathcep.umn.edu/umtymp"> University of Minnesota Talented Youth Mathematics Program</a> (UMTYMP).
+</p>
+<p>
+In summer 2019, I was a teaching assistant for the annual UMN REU in combinatorics. Look <a target="_blank" alt = "here" href="http://www-users.math.umn.edu/~reiner/REU/REU2019notes/REU2019salvage.html"> here</a> for details.
+</p>
+<p>
+In fall 2018, I did a directed reading project on Graph Theory with a UMN undergraduate. 
+</p>
+<p>
+During the summer of 2018, I taught a course in Logical Reasoning at <a href="https://www.beammath.org/">BEAM</a> (Bridge to Enter Advanced Mathematics) in New York City. BEAM is an awesome organization that brings advanced mathematics to low-income students.
+</p>
+<p>
+I have also taught at the <a target="_blank" alt = "Saturday Enrichment Program" href="http://www.mathcep.umn.edu/saturday-enrichment">Saturday Enrichment Program</a> through MathCEP at the University of Minnesota. In addition, I have worked as a volunteer teacher at the <a target="_blank" alt = "Franklin Learning Center" href="https://www.hclib.org/about/locations/franklin-learning-center"> Franklin Learning Center</a> at the Franklin Library in Minneapolis. There, I teach math to adults preparing for the GED. 
+</p>
+<p>
+
+</p>
+<br>
+<br>
+<br>
+<p>
+<!-- Some past teaching experience: 
+</p>
+<h3>Mathematics, Smith College</h3>
+<p>
+<b>Teaching Assistant in Tutoring Center</b> <i>2016 - 2017</i>
+<br>
+Calculus I, II, III and Linear Algebra
+</p>
+
+
+<h3>Mathematics, Reed College</h3>
+<p>
+<b>Teaching Assistant in Tutoring Center</b> <i>2014 - 2016</i>
+<br>
+Calculus I, II, III and Linear Algebra
+
+<br><br>
+
+<b>Grader for Math 382: Algorithms & Data Structures</b> <i>Spring 2016</i>
+
+<br><br>
+
+<b>Individual tutor</b> <i>2013 - 2016</i>
+<br>
+Introductory Analysis, Multivariate Calculus, Linear Algebra
+</p>
+
+
+
+<h3>Economics, Reed College</h3>
+<p>
+<b>Teaching Assistant and Grader, Economics 313: Microeconomics</b> <i>Fall 2015, Spring 2016</i>
+
+<br><br>
+
+<b>Teaching Assistant and Grader, Economics 201: Introduction to Economics</b> <i>Fall 2013, Spring 2014, Fall 2014</i>
+
+<br><br>
+
+<b>Individual tutor</b> <i>2013 - 2016</i>
+<br>
+Advanced Macroeconomics, Econometrics, Game Theory
+</p> -->
+
+</div>
+
+<br><br>
+
+</div>
+</body>
+
+<script type="text/javascript">
+function openMenu() {
+    document.getElementById("menu").classList.toggle("show");
+}
+
+window.onclick = function(event) {
+  if (!event.target.matches('.menuButton')) {
+
+    var dropdowns = document.getElementsByClassName("menuItems");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+
+</html>

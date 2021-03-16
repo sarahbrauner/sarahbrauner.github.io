@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+html, body {
+    background-color: #eeeeee;
+}
+
+.menuButton {
+    display: block;
+    padding: 0;
+    border: 0;
+    margin: 1em;
+    cursor: pointer;
+}
+
+.menuItems {
+    display: none;
+	height: 100%;
+	width: 100%;
+    position: relative;
+    background-color: #7a7a7a;
+}
+
+.menuItems a {
+    font-size: 5vw;
+    padding: 4% 6%;
+    color: #FFFFFF;
+    display: block;
+    font-family: "Lato", Lato, Sans-serif;
+}
+
+.menuItems a:hover:not(.active) {
+    background-color: rgba(39, 155, 118, 0.3);
+    color: white;
+}
+
+.menuItems a.active {
+    background-color: #279c77;
+    color: white;
+}
+
+.show {
+	display:block;
+}
+
+.main {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+#me
+    {
+    width: 80%;"
+    }
+
+.container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+.space {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.caption {
+    font-size: 3vw;
+}
+
+h2 {
+    color: black;
+    font-family: "Lato", Lato, Sans-serif;
+    text-align: center;
+    font-size: 7vw;
+}
+
+h3 {
+    color: black;
+    font-family: "Lato", Lato, Sans-serif;
+    text-align: left;
+    font-size: 6vw;
+}
+
+h4 {
+    color: black;
+    font-family: "Lato", Lato, Sans-serif;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 5vw;
+    margin-bottom: 0.2em;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+}
+
+p {
+    font-family: "Lato", Lato, Sans-serif;
+    font-size: 4.5vw;
+    margin-top: 0;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    font-family: "Lato", Lato, Sans-serif;
+    font-size: 4.5vw;
+    margin-top: 0;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+#jumpto {
+    display:none;
+}

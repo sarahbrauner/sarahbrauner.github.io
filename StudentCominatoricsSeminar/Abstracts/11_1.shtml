@@ -1,0 +1,56 @@
+
+<!--template by Ezra Miller, adapted for University of Minnesota from-->
+<!--http://www.math.lsa.umich.edu/seminars/combin/winter07/jan19.html-->
+
+<html>
+<head>
+<title>Student Combinatorics and Algebra Seminar</title>
+</head>
+
+<BODY TEXT="#000" VLINK="#0020C2" BGCOLOR="#FFFFFF">
+
+<p>
+</p><table border="3" width="100%" noshade="" cellspacing="1" cellpadding="4">
+<tbody><tr>
+<th><p>
+</p><h2> 
+<a href="http://math.umn.edu/~braun622/StudentCominatoricsSeminar/Fall2018.shtml"> 
+
+
+<font color="#000">Student Combinatorics and Algebra Seminar</font></a><br>
+<font color="#000">Thursday, October 4, 2018</font><br>
+<font color="#000">4:40pm in Vincent 570</font></h2>
+</th></tr>
+</tbody></table>
+<br><br>
+
+<h1><center>
+My favorite facts about $\mathrm{GL}_n \mathbb{F}_q$
+</center></h1>
+
+<center><h2>
+Graham Gordon
+</h2></center>
+
+<h2><center>
+University of Washington
+</center></h2>
+
+
+
+<center>
+<table width="75%">
+<tbody><tr><th>
+<hr><p>
+Abstract
+</p><p></p></th></tr>
+<tr><td align="justify">
+<center>
+<p align="justify">
+
+Have you ever heard that the symmetric group $\mathfrak{S}_n$ is “equal” to the finite general linear group $\mathrm{GL}_n \mathbb{F}_q$ in the limit $q \to 1$? This “equality” casts many mathematical shadows. I will discuss some of my favorites, which involve the (complex) characters of the two groups. I will include a primer on $\mathrm{GL}_n \mathbb{F}_q$ characters, and I will assume some foundational representation theory facts. Next, I will turn the tides and consider the limit $q \to \infty$. Mysteriously, some relationship between $\mathrm{GL}_n \mathbb{F}_q$ and $\mathfrak{S}_n$ as $q \to \infty$ is also casting shadows. Time permitting, I will discuss how character theory can be used to enumerate factorizations in order to segue into tomorrow’s seminar.
+
+</p></p><p></p><hr>
+</td></tr></tbody></table></center>
+</body></html>
+

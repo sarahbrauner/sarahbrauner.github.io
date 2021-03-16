@@ -1,0 +1,56 @@
+
+<!--template by Ezra Miller, adapted for University of Minnesota from-->
+<!--http://www.math.lsa.umich.edu/seminars/combin/winter07/jan19.html-->
+
+<html>
+<head>
+<title>Student Combinatorics and Algebra Seminar</title>
+</head>
+
+<BODY TEXT="#000" VLINK="#0020C2" BGCOLOR="#FFFFFF">
+
+<p>
+</p><table border="3" width="100%" noshade="" cellspacing="1" cellpadding="4">
+<tbody><tr>
+<th><p>
+</p><h2> 
+<a href="http://math.umn.edu/~braun622/StudentCominatoricsSeminar/Fall2018.shtml"> 
+
+
+<font color="#000">Student Combinatorics and Algebra Seminar</font></a><br>
+<font color="#000">Thursday, November 15, 2018</font><br>
+<font color="#000">4:40pm in Vincent 570</font></h2>
+</th></tr>
+</tbody></table>
+<br><br>
+
+<h1><center>
+What is Cyclic Sieving, Anyway?
+</center></h1>
+
+<center><h2>
+Eric Stucky
+</h2></center>
+
+<h2><center>
+University of Minnesota
+</center></h2>
+
+
+
+<center>
+<table width="75%">
+<tbody><tr><th>
+<hr><p>
+Abstract
+</p><p></p></th></tr>
+<tr><td align="justify">
+<center>
+<p align="justify">
+
+The cyclic sieving phenomenon (CSP) was first described in 2004 by three UMN combinatorialists (Vic Reiner, Dennis Stanton, and Dennis White) as a generalization of Stembridge's "q=-1 phenomenon". It describes a rigorous sense in which a q-analogue can "know" about how a cyclic group acts on combinatorial objects. In this talk we use the motivating example of binomial coefficients to arrive at a definition of a CSP. From there we discuss a representation-theoretic framework to prove CSPs and, time permitting, use it to sketch a proof for our example.
+
+</p></p><p></p><hr>
+</td></tr></tbody></table></center>
+</body></html>
+

@@ -1,0 +1,56 @@
+
+<!--template by Ezra Miller, adapted for University of Minnesota from-->
+<!--http://www.math.lsa.umich.edu/seminars/combin/winter07/jan19.html-->
+
+<html>
+<head>
+<title>Student Combinatorics and Algebra Seminar</title>
+</head>
+
+<BODY TEXT="#000" VLINK="#0020C2" BGCOLOR="#FFFFFF">
+
+<p>
+</p><table border="3" width="100%" noshade="" cellspacing="1" cellpadding="4">
+<tbody><tr>
+<th><p>
+</p><h2> 
+<a href="http://math.umn.edu/~braun622/StudentCominatoricsSeminar/Fall2018.shtml"> 
+
+
+<font color="#000">Student Combinatorics and Algebra Seminar</font></a><br>
+<font color="#000">Thursday, September 13, 2018</font><br>
+<font color="#000">4:40pm in Vincent 570</font></h2>
+</th></tr>
+</tbody></table>
+<br><br>
+
+<h1><center>
+Ehrhart polynomials of zonotopes
+</center></h1>
+
+<center><h2>
+Sam Hopkins
+</h2></center>
+
+<h2><center>
+University of Minnesota
+</center></h2>
+
+
+
+<center>
+<table width="75%">
+<tbody><tr><th>
+<hr><p>
+Abstract
+</p><p></p></th></tr>
+<tr><td align="justify">
+<center>
+<p align="justify">
+
+The Ehrhart polynomial of a lattice polytope counts the number of lattice points in the polytope as it is dilated. In general the coefficients of an Ehrhart polynomial might not be integers, and they also might not be positive. But in the case of a lattice zonotope, the Ehrhart polynomial has nonnegative integer coefficients. In fact, a well-known formula due to Stanley gives a direct combinatorial interpretation for the coefficients of the Ehrhart polynomial of a lattice zonotope. I will explain Stanley's formula, and I'll show what it says in the particularly nice case of the permutohedra.
+
+</p></p><p></p><hr>
+</td></tr></tbody></table></center>
+</body></html>
+

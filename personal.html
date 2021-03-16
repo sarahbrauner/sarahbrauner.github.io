@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Personal</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 480px), only screen and (max-device-width: 480px)" href="mobile.css">
+<link rel="author" href="humans.txt">
+
+</head>
+
+<div>
+  <img src="icons/menu.png" style="width:10%;" alt="menu" onclick="openMenu()" class="menuButton"></img>
+  <div id="menu" class="menuItems">
+  <li><a href="index.html">Home</a></li>
+  <li><a href="research.html">Research</a></li>
+  <li><a href="teaching.html">Teaching</a></li>
+  <li><a target="_blank" href="cv_8_2020.pdf">CV</a></li>
+  <li><a class="active" href="personal.html">Personal</a></li>
+</div>
+</div>
+
+<body>
+
+<div class="main">
+
+<h2>Personal</h2>
+
+<hr color="#9c273a">
+
+<div style="padding: 5%;">
+
+<p>
+This section really exists so that I can show the world that I won the Amateur Butter Carving Contest at the Minnesota State Fair in 2017. 
+</p>
+
+<img class="space" id="me" src="images/butter.jpg" alt="Sarah Brauner">
+
+<br><br>
+
+<p class="caption" style="text-align:center;">
+<i>My butter sculpture and I.</i>
+</p>
+
+<br>
+
+<br><br>
+
+</div>
+</div>
+</body>
+
+<script type="text/javascript">
+function openMenu() {
+    document.getElementById("menu").classList.toggle("show");
+}
+
+window.onclick = function(event) {
+  if (!event.target.matches('.menuButton')) {
+
+    var dropdowns = document.getElementsByClassName("menuItems");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+
+</html>

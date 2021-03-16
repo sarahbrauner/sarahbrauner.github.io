@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Home</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 480px), only screen and (max-device-width: 480px)" href="mobile.css">
+<link rel="author" href="humans.txt">
+
+</head>
+
+<div>
+  <img src="icons/menu.png" style="width:10%;" alt="menu" onclick="openMenu()" class="menuButton"></img>
+  <div id="menu" class="menuItems">
+  <li><a class="active" href="index.html">Home</a></li>
+  <li><a href="research.html">Research</a></li>
+  <li><a href="teaching.html">Teaching</a></li>
+  <li><a target="_blank" href="cv_8_2020.pdf">CV</a></li>
+  <li><a href="personal.html">Personal</a></li>
+</div>
+</div>
+
+<body>
+
+<div class="main">
+
+<h2>Sarah Brauner</h2>
+
+<hr color="#9c273a">
+
+<br>
+
+<img class="space" id="me" src="images/mathbug.jpg" alt="Sarah Brauner">
+
+<br><br>
+
+<p class="caption" style="text-align:center;">
+<i>This is me, in front of a math-bug&#8212; but it is not my math-bug! If it is yours, I would love to hear from you.</i>
+</p>
+
+<br>
+
+<hr color="#9c273a">
+
+<div style="padding: 5%;">
+
+<!-- <div style="margin: 2% 10%;"> -->
+
+<p>
+
+<b>About me:</b> I am a fourth year graduate student and PhD candidate in Mathematics at the <a href="https://math.umn.edu/" target="_blank">University of Minnesota.</a> My advisor is <a href="http://www-users.math.umn.edu/~reiner/">Vic Reiner</a>. I did my undergrad at <a href="http://www.reed.edu/">Reed College</a>.  After that, I spent a year at Smith College's <a href="https://www.smith.edu/admission-aid/how-apply/graduate-students/mathematics-postbaccalaureate/">Post-Baccalaureate Program</a> for women in mathematics. 
+</p>
+
+<p>
+I am currently supported by the <a href="https://www.nsfgrfp.org/" > NSF Graduate Research Fellowship Program. </a> Before that, I was supported by a three-year <a href="https://cse.umn.edu/college/cse-graduate-fellowship-nomination-instructions"> UMN College of Science and Engineering Graduate Fellowship. </a> 
+</p>
+
+<p>
+<b>Research:</b> I study algebraic combinatorics. Specifically, I am interested in reflection groups and their connections to combinatorics, representation theory and algebraic topology. See my research page for more details.
+</p>
+
+<p>
+<b>Contact:</b></i> Email me at braun622 "at" umn.edu.
+</p>
+
+<p> 
+<b>Organizing:</b></i>	
+<ul>
+<li> I am a co-organizer of the <a href="https://sites.google.com/view/mpm-umn/home?authuser=0"> Mathematics Project at Minnesota</a>, a four-day workshop in January for UMN undergraduates that come from groups traditionally underrepresented in mathematics. The workshop runs annually every January.    </li>
+</p>
+
+
+<li> I am co-organizing the <a href="https://sites.google.com/view/gscc2021/home"> Graduate Student Combinatorics Conference</a> on April 23-25, 2021 at UMN. Check back for details.</li>
+</p>
+
+<!--
+<li> I co-run <a href="https://mathclub.math.umn.edu/"> Math Club</a> with Montie Avery. We are always interested in finding speakers to give talks that are accessible to undergraduates.</li>
+</p>
+
+-->
+
+
+<li> In 2018-2019 I co-organized the <a href="http://www-users.math.umn.edu/~braun622/StudentCominatoricsSeminar/Fall2018.shtml">Student Combinatorics and Algebra Seminar</a> with <a href="http://www-users.math.umn.edu/~banai003/">Esther Banaian</a>. The current website can be found <a href="http://www-users.math.umn.edu/~karnx018/2020.html">here</a>. </li>
+</ul>
+</p>
+
+<!--
+<h4>
+<b>Upcoming Travel & Conferences: </b> </i> </h4> 
+<ul>
+
+
+
+
+<p>
+
+<li> July 2020: Attending <a href="https://pages.uoregon.edu/belias/WARTHOG/infcomm/index.html">WARTHOG:
+Infinite-dimensional methods in commutative algebra </a> at University of Oregon  </li>
+</p>
+
+<p>
+
+<li> May 2021: Attending <a href = "http://www-users.math.umn.edu/~shopkins/OPAC/opac.html">OPAC 2020</a> at University of Minnesota </li>
+</p>
+
+<p>
+<li> April 2021: Co-organizing the <a href="https://sites.google.com/view/gscc2021/home"> Graduate Student Combinatorics Conference</a> at University of Minnesota</li>
+</ul>
+</p>
+  -->
+<!--
+
+
+<h4>
+<b>Recent Past Travel & Conferences: </b> </i> </h4> 
+<p>
+<ul>
+  <p>
+<li> March 2020: Speaking at the Reed College Mathematics Colloquium</li>
+</p>
+<li> January 2020: Co-organizing the <a href="http://wimmn.math.umn.edu/mathproject/"> Mathematics Project at Minnesota</a> at University of Minnesota </li>
+</p>
+<p>
+
+<li> September 2019: Speaking at the AMS Fall Sectional meeting in Madison, WI at a special session on Combinatorial Algebraic Geometry </li>
+</p>
+<p>
+
+<li> September 2019: Attending Algecom XIV at Washington University in St Louis </li>
+</p>
+<p>
+<li> July 2019: Presenting a poster at FPSAC in Ljubljana, Slovenia. </li>
+</p>
+<li> May 2019: Presenting a poster at Algecom XVII at Loyola University Chicago </li>
+</p>
+-->
+
+<br><br>
+
+</div>
+</div>
+</body>
+
+<script type="text/javascript">
+function openMenu() {
+    document.getElementById("menu").classList.toggle("show");
+}
+
+window.onclick = function(event) {
+  if (!event.target.matches('.menuButton')) {
+
+    var dropdowns = document.getElementsByClassName("menuItems");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+
+</html>

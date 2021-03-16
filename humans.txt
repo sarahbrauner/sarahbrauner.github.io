@@ -1,0 +1,19 @@
+/* TEAM */
+
+    Images, Content: Sarah Brauner
+
+    Programming: Ben Cowper
+
+    Contact: cowpervideos@gmail.com
+
+    Location: Minneapolis, MN, USA
+
+/* SITE */
+
+    -Under construction-
+
+    Last update: 10/11/2017
+
+    Standards: HTML, CSS
+
+    Software: Sublime Text 2

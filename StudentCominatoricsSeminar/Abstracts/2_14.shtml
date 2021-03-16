@@ -1,0 +1,55 @@
+
+<!--template by Ezra Miller, adapted for University of Minnesota from-->
+<!--http://www.math.lsa.umich.edu/seminars/combin/winter07/jan19.html-->
+
+<html>
+<head>
+<title>Student Combinatorics and Algebra Seminar</title>
+</head>
+
+<BODY TEXT="#000" VLINK="#0020C2" BGCOLOR="#FFFFFF">
+
+<p>
+</p><table border="3" width="100%" noshade="" cellspacing="1" cellpadding="4">
+<tbody><tr>
+<th><p>
+</p><h2> 
+<a href="http://math.umn.edu/~braun622/StudentCominatoricsSeminar/Fall2018.shtml"> 
+
+
+<font color="#000">Student Combinatorics and Algebra Seminar</font></a><br>
+<font color="#000">Thursday, February 14, 2019 </font><br>
+<font color="#000">4:40pm in Vincent 570</font></h2>
+</th></tr>
+</tbody></table>
+<br><br>
+
+<h1><center>
+
+Plabic Networks: Why?
+</center></h1>
+
+<center><h2>
+Sunita Chepuri
+</h2></center>
+
+<h2><center>
+University of Minnesota
+</center></h2>
+
+
+<center>
+<table width="75%">
+<tbody><tr><th>
+<hr><p>
+Abstract
+</p><p></p></th></tr>
+<tr><td align="justify">
+<center>
+<p align="justify">
+ In this talk, we motivate and define plabic networks.  We begin with the boundary measurement map from planar directed networks to the Grassmannian.  Gauge transformations preserve the image under this map, so we transform our edge weighted networks into face weighted networks to remove this redundancy.  Path and cycle reversal also preserve the image under this map, so we transform the directed networks into plabic networks.
+
+
+</p></p><p></p><hr>
+</td></tr></tbody></table></center>
+</body></html>

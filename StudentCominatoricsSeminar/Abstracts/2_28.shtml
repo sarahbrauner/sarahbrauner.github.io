@@ -1,0 +1,54 @@
+
+<!--template by Ezra Miller, adapted for University of Minnesota from-->
+<!--http://www.math.lsa.umich.edu/seminars/combin/winter07/jan19.html-->
+
+<html>
+<head>
+<title>Student Combinatorics and Algebra Seminar</title>
+</head>
+
+<BODY TEXT="#000" VLINK="#0020C2" BGCOLOR="#FFFFFF">
+
+<p>
+</p><table border="3" width="100%" noshade="" cellspacing="1" cellpadding="4">
+<tbody><tr>
+<th><p>
+</p><h2> 
+<a href="http://math.umn.edu/~braun622/StudentCominatoricsSeminar/Fall2018.shtml"> 
+
+
+<font color="#000">Student Combinatorics and Algebra Seminar</font></a><br>
+<font color="#000">Thursday, February 28, 2019 </font><br>
+<font color="#000">4:40pm in Vincent 570</font></h2>
+</th></tr>
+</tbody></table>
+<br><br>
+
+<h1><center>
+
+An Entrance to Buildings
+</center></h1>
+
+<center><h2>
+Andy Hardt
+</h2></center>
+
+<h2><center>
+UMN
+</center></h2>
+
+
+<center>
+<table width="75%">
+<tbody><tr><th>
+<hr><p>
+Abstract
+</p><p></p></th></tr>
+<tr><td align="justify">
+<center>
+<p align="justify">
+Bruhat-Tits Buildings are simplicial complexes on which reductive groups act nicely. The group action illuminates the reductive group structure, and the main “pieces” of a reductive group–Borel subgroups, tori, parabolic subgroups, and the Weyl group–all play a role. The “apartments” of a finite building are Coxeter complexes, so the combinatorial structure is nice as well. Conversely, given a group action on a building, certain stabilizer subgroups must satisfy a set of axioms by Tits, and thereby form a “BN-pair”. Groups with a BN-pair have a lot of the same structure of reductive groups, so the concept of a building allows us to more easily find and study these groups. We will construct buildings from the ground up, talking about apartments first, and (hopefully!) giving illuminating examples along the way.
+
+</p></p><p></p><hr>
+</td></tr></tbody></table></center>
+</body></html>

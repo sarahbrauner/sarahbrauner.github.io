@@ -1,0 +1,52 @@
+
+<!--template by Ezra Miller, adapted for University of Minnesota from-->
+<!--http://www.math.lsa.umich.edu/seminars/combin/winter07/jan19.html-->
+
+<html>
+<head>
+<title>Student Combinatorics and Algebra Seminar</title>
+</head>
+
+<BODY TEXT="#000" VLINK="#0020C2" BGCOLOR="#FFFFFF">
+
+<p>
+</p><table border="3" width="100%" noshade="" cellspacing="1" cellpadding="4">
+<tbody><tr>
+<th><p>
+</p><h2> 
+<a href="http://math.umn.edu/~braun622/StudentCominatoricsSeminar/Fall2018.shtml"> 
+
+
+<font color="#000">Student Combinatorics and Algebra Seminar</font></a><br>
+<font color="#000">Thursday, May 2, 2019 </font><br>
+<font color="#000">4:40pm in Vincent 570</font></h2>
+</th></tr>
+</tbody></table>
+<br><br>
+
+<h1><center>
+A totally non-negative tasting menu
+</center></h1>
+
+<center><h2>
+Melissa Sherman-Bennett
+</h2></center>
+
+<h2><center>
+UC Berkeley/Harvard University
+</center></h2>
+
+
+<center>
+<table width="75%">
+<tbody><tr><th>
+<hr><p>
+Abstract
+</p><p></p></th></tr>
+<tr><td align="justify">
+<center>
+<p align="justify">
+ The totally nonnegative Grassmannian is the subset of the (real) Grassmannian where all Plucker coordinates are non-negative, introduced independently by Postnikov (2006) and Lusztig (1998). From a topological perspective, it's a very nice space; Postnikov, Speyer, and Williams (2009) showed that it is a CW complex, and Galashin, Karp, and Lam recently showed that it is a regular CW complex homeomorphic to a closed ball. It is also a very nice space from a combinatorial perspective, as the cells of the CW complex are in bijection with a variety of combinatorial objects, such as Le-diagrams, Grassmann necklaces, decorated permutations, and (equivalence classes of) reduced plabic graphs. I'll describe some of these objects and discuss what they tell us about the cells. Time permitting, I will also discuss how plabic graphs for the top dimensional cell feature in the cluster algebra structure on the coordinate ring of the complex Grassmannian.
+</p></p><p></p><hr>
+</td></tr></tbody></table></center>
+</body></html>

@@ -1,0 +1,54 @@
+
+<!--template by Ezra Miller, adapted for University of Minnesota from-->
+<!--http://www.math.lsa.umich.edu/seminars/combin/winter07/jan19.html-->
+
+<html>
+<head>
+<title>Student Combinatorics and Algebra Seminar</title>
+</head>
+
+<BODY TEXT="#000" VLINK="#0020C2" BGCOLOR="#FFFFFF">
+
+<p>
+</p><table border="3" width="100%" noshade="" cellspacing="1" cellpadding="4">
+<tbody><tr>
+<th><p>
+</p><h2> 
+<a href="http://math.umn.edu/~braun622/StudentCominatoricsSeminar/Fall2018.shtml"> 
+
+
+<font color="#000">Student Combinatorics and Algebra Seminar</font></a><br>
+<font color="#000">Thursday, March 28, 2019 </font><br>
+<font color="#000">4:40pm in Vincent 570</font></h2>
+</th></tr>
+</tbody></table>
+<br><br>
+
+<h1><center>
+
+Peck posets and sl_2 actions
+</center></h1>
+
+<center><h2>
+Christian Gaetz
+</h2></center>
+
+<h2><center>
+MIT
+</center></h2>
+
+
+<center>
+<table width="75%">
+<tbody><tr><th>
+<hr><p>
+Abstract
+</p><p></p></th></tr>
+<tr><td align="justify">
+<center>
+<p align="justify">
+ A finite poset is Peck if it is rank-symmetric, rank-unimodal, and strongly Sperner (which means that the largest antichains are the sets of elements of a given rank).  We'll see that this condition is equivalent to the existence of a representation of the Lie algebra sl_2 which respects the order structure of the poset.  We'll then look at some applications: a product theorem, Sperner's theorem, and Stanley's proof of the Erdos-Moser Conjecture.
+
+</p></p><p></p><hr>
+</td></tr></tbody></table></center>
+</body></html>

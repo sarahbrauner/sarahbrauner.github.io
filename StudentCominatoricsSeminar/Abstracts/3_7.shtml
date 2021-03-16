@@ -1,0 +1,52 @@
+
+<!--template by Ezra Miller, adapted for University of Minnesota from-->
+<!--http://www.math.lsa.umich.edu/seminars/combin/winter07/jan19.html-->
+
+<html>
+<head>
+<title>Student Combinatorics and Algebra Seminar</title>
+</head>
+
+<BODY TEXT="#000" VLINK="#0020C2" BGCOLOR="#FFFFFF">
+
+<p>
+</p><table border="3" width="100%" noshade="" cellspacing="1" cellpadding="4">
+<tbody><tr>
+<th><p>
+</p><h2> 
+<a href="http://math.umn.edu/~braun622/StudentCominatoricsSeminar/Fall2018.shtml"> 
+
+
+<font color="#000">Student Combinatorics and Algebra Seminar</font></a><br>
+<font color="#000">Thursday, March 7, 2019 </font><br>
+<font color="#000">4:40pm in Vincent 570</font></h2>
+</th></tr>
+</tbody></table>
+<br><br>
+
+<h1><center>
+The Shapiro-Shapiro Conjecture in Schubert calculus
+</center></h1>
+
+<center><h2>
+Chris Fraser
+</h2></center>
+
+<h2><center>
+University of Minnesota
+</center></h2>
+
+
+<center>
+<table width="75%">
+<tbody><tr><th>
+<hr><p>
+Abstract
+</p><p></p></th></tr>
+<tr><td align="justify">
+<center>
+<p align="justify">
+ Classical Schubert Calculus  asks questions like the following: fixing 4 generic lines in 3-space, how many lines pass through all 4 of these? The method for answering such questions, via the cohomology ring of the Grassmannian, is fully developed provided we work over the complex numbers. However, the corresponding questions over the real numbers often do not have "the right" number of solutions. The Shapiro-Shapiro conjecture describes a flexible setup in which the real count matches the complex count. I will sketch some connections of this conjecture with some other concrete problems, and try and sketch how the conjecture eventually became a Theorem. 
+</p></p><p></p><hr>
+</td></tr></tbody></table></center>
+</body></html>
