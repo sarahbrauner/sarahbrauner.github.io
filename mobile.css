@@ -59,6 +59,12 @@ img {
     height: auto;
     }
 
+#mainpage
+    {
+    width: 20%;
+    height: auto;    
+    }
+
 .container {
     position: relative;
     width: 100%;
